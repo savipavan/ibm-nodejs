@@ -11,7 +11,7 @@ install
 After cloning this project onto your local machine, and `cd`'ing into the
 directory, install the dependencies using `npm`, as so:
 
-    $ git clone https://github.com/pmuellr/cf-node-hello.git
+    $ git clone https://github.com/savipavan/ibm-nodejs.git
 
         ... git output here ...
 
