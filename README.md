@@ -1,4 +1,4 @@
-cf-node-hello
+ibm-nodejs
 ================================================================================
 
 A "Hello World" node sample for Cloud Foundry.
@@ -15,7 +15,7 @@ directory, install the dependencies using `npm`, as so:
 
         ... git output here ...
 
-    $ cd cf-node-hello
+    $ cd ibm-nodejs
 
     $ npm install
 
